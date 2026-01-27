@@ -1,5 +1,6 @@
 mi_conf.py
 __pycache__/
 .venv/
-.python-version
 registro_ID.txt
+.python_version
+.bot.pyorca.swp
