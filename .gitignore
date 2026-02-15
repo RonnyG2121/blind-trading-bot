@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 .python-version
 .bot.pyorca.swp
+.env
